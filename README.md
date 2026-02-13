@@ -2,15 +2,20 @@ Hii, I'm Punith M Y
 
 PROFESSIONAL SUMMARY
 
-Software Engineer with 1.6+ years of experience building scalable web applications using PHP and Laravel. Skilled in developing CMS platforms, implementing role based access control, and optimizing MySQL queries for performance improvements. Possess a strong backend foundation with practical exposure to full stack development workflows. Actively seeking backend or full stack roles to contribute to robust, high performance web applications.
+Software Engineer with 1.7+ years of experience building scalable web applications using PHP and Laravel. Skilled in developing CMS platforms, implementing role based access control, and optimizing MySQL queries for performance improvements. Possess a strong backend foundation with practical exposure to full stack development workflows. Actively seeking backend or full stack roles to contribute to robust, high performance web applications.
 
 TECHNICAL SKILLS
 
 Programming Languages: PHP, JavaScript
+
 Framework: Laravel
+
 Frontend Technologies: HTML5, CSS3, Bootstrap
+
 Database: MySQL
+
 Core Concepts: MVC Architecture, CRUD Operations, REST API basics, Authentication, Authorization, Middleware
+
 Tools: Git, GitHub, cPanel
 
 PROFESSIONAL EXPERIENCE
