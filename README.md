@@ -59,8 +59,8 @@ B.E. in (Computer Science and Engineering) - Amruta Institute of Engineering and
 
 CERTIFICATION
 
-Core Java, Web and SQL,
-JSpiders Training and Development Center, Bengaluru
+Core Java, Web and SQL
+- JSpiders Training and Development Center, Bengaluru.
 
 KEY STRENGTHS
 
