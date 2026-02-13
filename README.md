@@ -18,6 +18,7 @@ Core Concepts: MVC Architecture, CRUD Operations, REST API basics, Authenticatio
 
 Tools: Git, GitHub, cPanel
 
+
 PROFESSIONAL EXPERIENCE
 
 Software Developer - Justify Technology Pvt. Ltd. | Jul 2024 to Present
@@ -29,6 +30,7 @@ Software Developer - Justify Technology Pvt. Ltd. | Jul 2024 to Present
 - Collaborated with cross functional teams to gather requirements and deliver scalable solutions.
 
 PROJECTS
+
 Invoice (GST) Management System
 
 - Built a GST compliant invoice generation system with automated tax calculation.
@@ -57,7 +59,7 @@ B.E. in (Computer Science and Engineering) - Amruta Institute of Engineering and
 
 CERTIFICATION
 
-Core Java, Web and SQL
+Core Java, Web and SQL,
 JSpiders Training and Development Center, Bengaluru
 
 KEY STRENGTHS
